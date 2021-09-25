@@ -2,8 +2,8 @@
 
 :root {
   --gray-color: #999;
-  --primary-color: blue;
-  --primary-color: linear-gradient(to right, #fc6767, #ec008c);
+  --primary-color: #e73fa4;
+  --gradient-color: linear-gradient(to right, #fc6767, #ec008c);
 }
 
 body {
